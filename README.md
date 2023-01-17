@@ -1,7 +1,8 @@
 # [💻 LiveTerm - build terminal styled websites in minutes!](https://huyhoang8398.github.io)
 
-This project is Forked from Cveinnt's repo LiveTerm
-**This fork adds responsive functionality for phones and other platforms**
+- This project is Forked from Cveinnt's repo LiveTerm
+
+- **This fork adds responsive functionality for phones and other platforms**
 
 Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
 
