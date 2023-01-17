@@ -1,4 +1,4 @@
-# [💻 LiveTerm - build terminal styled websites in minutes!](https://liveterm.vercel.app)
+# [💻 LiveTerm - build terminal styled websites in minutes!](https://huyhoang8398.github.io)
 
 Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
 
@@ -6,9 +6,7 @@ Building a simple website with LiveTerm only takes **minutes**, and you only nee
 
 LiveTerm can be used to build a variety of websites:
 
-- [personal website](https://cveinnt.com)
-- [browser startpage](https://livetermstart.vercel.app/)
-- [project page](https://liveterm.vercel.app/)
+- [personal website](https://huyhoang8398.github.io)
 - or maybe just a cool browser music player...be creative!
 
 Feel free to play with the web demo above!
@@ -21,8 +19,8 @@ Feel free to play with the web demo above!
 </p>
 
 <p align="center">
-<img src="./demo/cveinnt.png" width="600"><br>
-<strong><a href="https://cveinnt.com" target=_blank>my personal website</a></strong>
+<img src="./demo/dohoang.png" width="600"><br>
+<strong><a href="https://huyhoang8398.github.io" target=_blank>my personal website</a></strong>
 </p>
 
 ## 🚀 Ship your LiveTerm site in less than 5 minutes
@@ -32,7 +30,7 @@ LiveTerm requires the `yarn` package manager. You can install `yarn` [here](http
 Simply run the following commmand in your terminal:
 
 ```bash
-sh -c "$(curl -fsSL https://raw.github.com/Cveinnt/LiveTerm/main/install/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/huyhoang8398/LiveTerm/main/install/install.sh)"
 ```
 
 This will install LiveTerm to the current directory. You can start building your website with:
@@ -46,7 +44,7 @@ Start editing `config.json` and try saving and see the updated changes!
 Alternatively, you can clone this repository to a location of your choosing
 
 ```bash
-git clone https://github.com/Cveinnt/LiveTerm.git && cd LiveTerm
+git clone https://github.com/huyhoang8398/LiveTerm.git && cd LiveTerm
 ```
 
 Then install dependencies and start developing there:

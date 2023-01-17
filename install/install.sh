@@ -1,11 +1,10 @@
 #!/bin/sh
 # This script installs LiveTerm.
 #
-# Found a bug? Report it here: https://github.com/Cveinnt/LiveTerm/issues
 
 set -e -u
 
-eval "git clone 'https://github.com/Cveinnt/LiveTerm.git'"
+eval "git clone 'https://github.com/huyhoang8398/LiveTerm.git'"
 
 cd LiveTerm
 
