@@ -30,6 +30,15 @@
       "gray": "#88C0D0",
       "blue": "#EBCB8B",
       "red": "#BF616A"
+    },
+    "moonfly": {
+      "background": "#080808",
+      "foreground": "#bdbdbd"
+      "yellow": "#e3c78a",
+      "green": "#8cc85f",
+      "gray": "#323437",
+      "blue": "#80a0ff",
+      "red": "#ff5454"
     }
   }
 }
